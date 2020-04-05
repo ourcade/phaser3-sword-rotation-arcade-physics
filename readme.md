@@ -28,7 +28,7 @@ npm install
 npm run start
 ```
 
-Demo is running at http://localhost:8000
+Running at http://localhost:8000
 
 ## Assets
 
