@@ -15,6 +15,8 @@ You can toggle the different cases in `SwordContainer.ts` by changing `containPh
 
 This is a potential solution to a problem discussed on the Phaser Discourse: https://phaser.discourse.group/t/workaround-for-rotation-on-arcade-physics/5763/6
 
+Demo: https://ourcade.github.io/phaser3-sword-rotation-arcade-physics/
+
 ## Prerequisites
 
 This example project uses the [phaser3-parcel-template](https://github.com/ourcade/phaser3-parcel-template) and requires [Parcel](https://parceljs.org/).
